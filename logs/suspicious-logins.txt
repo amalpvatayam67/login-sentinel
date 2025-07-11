@@ -1,0 +1,6 @@
+== Suspicious Login Log Initialized ==
+[2025-07-11 17:02:00] ⚠️ Suspicious Login: User 'admin' logged in from NEW IP: 192.168.100.101 (Old IP: 192.168.100.100)
+[2025-07-11 17:06:17] ⚠️ Suspicious Login: User 'admin' logged in from NEW IP: 192.0.0.100 (Old IP: 192.168.100.101)
+[2025-07-11 17:08:11] ⚠️ Suspicious Login: User 'admin' logged in from NEW IP: 192.0.0.110 (Old IP: 192.0.0.100)
+[2025-07-11 17:09:41] ⚠️ Suspicious Login: User 'admin' logged in from NEW IP: 192.0.0.112 (Old IP: 192.0.0.110)
+[2025-07-11 17:10:28] ⚠️ Suspicious Login: User 'admin' logged in from NEW IP: 199.0.0.112 (Old IP: 192.0.0.112)
