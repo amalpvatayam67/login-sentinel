@@ -26,9 +26,12 @@
 
 ## 📁 Folder Structure
 
+```
 ├── login-sentinel.php
 ├── readme.txt
 ├── logs/
+
+```
 
 ---
 
